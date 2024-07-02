@@ -1,0 +1,99 @@
+﻿<UserControl x:Class="plataforma_ensino.PaginaInfosUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:plataforma_ensino"
+             mc:Ignorable="d" 
+             d:DesignHeight="583.5" d:DesignWidth="800" IsVisibleChanged="UserControl_IsVisibleChanged">
+    <UserControl.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="Black"/>
+            <GradientStop Color="#FF28BDEB" Offset="1"/>
+        </LinearGradientBrush>
+    </UserControl.Background>
+
+    <StackPanel HorizontalAlignment="Center" Width="732" Margin="0,0,0,10">
+        <Label Content="Informacões do Aluno" HorizontalAlignment="Center" Margin="0,15" FontSize="35" FontFamily="hooge 05_55" Foreground="White"/>
+        <Grid Width="782">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="7*"/>
+                <ColumnDefinition Width="40*"/>
+                <ColumnDefinition Width="6*"/>
+                <ColumnDefinition Width="40*"/>
+                <ColumnDefinition Width="7*"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Row="0" Grid.Column="1" Margin="10,0,30,30">
+                <Label Content="Nome" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="15" Foreground="White"/>
+                <Border BorderBrush="Black" BorderThickness="2" CornerRadius="10" Padding="10">
+                    <Label x:Name="NomeLabel" FontWeight="Bold" FontSize="15" Foreground="White"/>
+                </Border>
+            </StackPanel>
+
+            <StackPanel Grid.Row="0" Grid.Column="2" Margin="46,0,0,30" Grid.ColumnSpan="2">
+                <Label Content="E-mail" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="15" Foreground="White"/>
+                <Border BorderBrush="Black" BorderThickness="2" CornerRadius="10" Padding="10" Width="282">
+                    <Label x:Name="EmailLabel" Foreground="White" FontWeight="Bold" FontSize="15"/>
+                </Border>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" Grid.Column="1" Margin="10,0,30,30">
+                <Label Content="Data de Nascimento" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="15" Foreground="White"/>
+                <Border BorderBrush="Black" BorderThickness="2" CornerRadius="10" Padding="10">
+                    <Label x:Name="DataNascLabel"  Foreground="White" FontWeight="Bold" FontSize="20"/>
+                </Border>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" Grid.Column="3" Margin="10,0,10,30">
+                <Label Content="CPF" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="15" Foreground="White"/>
+                <Border BorderBrush="Black" BorderThickness="2" CornerRadius="10" Padding="10" Width="270">
+                    <Label x:Name="CpfLabel" Foreground="White" FontWeight="Bold"  FontSize="20"/>
+                </Border>
+            </StackPanel>
+
+            <StackPanel Grid.Row="2" Grid.Column="1" Margin="10,0,30,30">
+                <Label Content="Gênero" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="15" Foreground="White"/>
+
+                <Border BorderBrush="Black" BorderThickness="2" CornerRadius="10" Padding="10" Width="271">
+                    <Label x:Name="GeneroLabel"  Foreground="White" FontWeight="Bold"  FontSize="20"/>
+                </Border>
+            </StackPanel>
+
+            <StackPanel Grid.Row="2" Grid.Column="3" Margin="10,0,0,30">
+                <Label Content="Nacionalidade" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="15" Foreground="White"/>
+
+                <Border BorderBrush="Black" BorderThickness="2" CornerRadius="10" Padding="10" Width="270">
+                    <Label x:Name="NacionalidadeLabel" Foreground="White" FontWeight="Bold" FontSize="20"/>
+                </Border>
+            </StackPanel>
+
+            <StackPanel Grid.Row="3" Grid.Column="1" Margin="10,0,0,30">
+                <Label Content="Endereço" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="15" Foreground="White"/>
+
+                <Border BorderBrush="Black" BorderThickness="2" CornerRadius="10" Padding="10" Width="294">
+                    <Label x:Name="EnderecoLabel" Foreground="White" FontWeight="Bold"  FontSize="15"/>
+                </Border>
+            </StackPanel>
+
+            <StackPanel Grid.Row="3" Grid.Column="3" Margin="10,0,0,30">
+                <Label Content="Numero de contato" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="15" Foreground="White"/>
+                <Border BorderBrush="Black" BorderThickness="2" CornerRadius="10" Padding="10" Width="278">
+                    <Label x:Name="ContatoLabel"  Foreground="White" FontWeight="Bold"  FontSize="20"/>
+                </Border>
+
+
+            </StackPanel>
+            <StackPanel Grid.Row="4" Grid.ColumnSpan="5">
+                <Button Content="Retornar" Width="100" Height="21" Click="Retornar_Click"/>
+            </StackPanel>
+        </Grid>
+    </StackPanel>
+</UserControl>

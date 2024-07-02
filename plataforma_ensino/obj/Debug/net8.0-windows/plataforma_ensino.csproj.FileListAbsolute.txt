@@ -1,0 +1,352 @@
+C:\Users\Renan\Documents\ProjetoIntegradorIV\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.exe
+C:\Users\Renan\Documents\ProjetoIntegradorIV\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.deps.json
+C:\Users\Renan\Documents\ProjetoIntegradorIV\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.runtimeconfig.json
+C:\Users\Renan\Documents\ProjetoIntegradorIV\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.dll
+C:\Users\Renan\Documents\ProjetoIntegradorIV\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.pdb
+C:\Users\Renan\Documents\ProjetoIntegradorIV\AV1\plataforma_ensino\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Renan\Documents\ProjetoIntegradorIV\AV1\plataforma_ensino\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Renan\Documents\ProjetoIntegradorIV\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino_MarkupCompile.cache
+C:\Users\Renan\Documents\ProjetoIntegradorIV\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino_MarkupCompile.lref
+C:\Users\Renan\Documents\ProjetoIntegradorIV\AV1\plataforma_ensino\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Renan\Documents\ProjetoIntegradorIV\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.g.resources
+C:\Users\Renan\Documents\ProjetoIntegradorIV\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\Documents\ProjetoIntegradorIV\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.AssemblyInfoInputs.cache
+C:\Users\Renan\Documents\ProjetoIntegradorIV\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.AssemblyInfo.cs
+C:\Users\Renan\Documents\ProjetoIntegradorIV\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Documents\ProjetoIntegradorIV\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.dll
+C:\Users\Renan\Documents\ProjetoIntegradorIV\AV1\plataforma_ensino\obj\Debug\net8.0-windows\refint\plataforma_ensino.dll
+C:\Users\Renan\Documents\ProjetoIntegradorIV\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.pdb
+C:\Users\Renan\Documents\ProjetoIntegradorIV\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.genruntimeconfig.cache
+C:\Users\Renan\Documents\ProjetoIntegradorIV\AV1\plataforma_ensino\obj\Debug\net8.0-windows\ref\plataforma_ensino.dll
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.exe
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.deps.json
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.runtimeconfig.json
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.dll
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.pdb
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\App.g.cs
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino_MarkupCompile.cache
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino_MarkupCompile.lref
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\MainWindow.baml
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.g.resources
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.GeneratedMSBuildEditorConfig.editorconfig
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.AssemblyInfoInputs.cache
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.AssemblyInfo.cs
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.csproj.CoreCompileInputs.cache
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.dll
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\refint\plataforma_ensino.dll
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.pdb
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.genruntimeconfig.cache
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\ref\plataforma_ensino.dll
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaMatricula.g.cs
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaMatricula.baml
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaDisciplinasControl.g.cs
+E:\faculdade\4periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaDisciplinasControl.baml
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.exe
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.deps.json
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.runtimeconfig.json
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.dll
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.pdb
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino_MarkupCompile.cache
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino_MarkupCompile.lref
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.g.resources
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.AssemblyInfoInputs.cache
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.AssemblyInfo.cs
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.csproj.CoreCompileInputs.cache
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.dll
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\refint\plataforma_ensino.dll
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.pdb
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.genruntimeconfig.cache
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\ref\plataforma_ensino.dll
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaDisciplinasControl.g.cs
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaDisciplinasControl.baml
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaCadastroUC.g.cs
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInicialUC.g.cs
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaCadastroUC.baml
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInicialUC.baml
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaMatriculaUC.g.cs
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaMatriculaUC.baml
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\telaProfessorUC.g.cs
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\telaProfessorUC.baml
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaBoletimUC.g.cs
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaBoletimUC.baml
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInfosUC.g.cs
+C:\Users\renan\Documents\Faculdade\4° periodo\pi4\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInfosUC.baml
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.exe
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.deps.json
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.runtimeconfig.json
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.dll
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.pdb
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaBoletimUC.g.cs
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaCadastroUC.g.cs
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaDisciplinasControl.g.cs
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInfosUC.g.cs
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInicialUC.g.cs
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaMatricula.g.cs
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaMatriculaUC.g.cs
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\telaProfessorUC.g.cs
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\App.g.cs
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino_MarkupCompile.cache
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino_MarkupCompile.lref
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\MainWindow.baml
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaBoletimUC.baml
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaCadastroUC.baml
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaDisciplinasControl.baml
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInfosUC.baml
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInicialUC.baml
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaMatricula.baml
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaMatriculaUC.baml
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\telaProfessorUC.baml
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.g.resources
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.GeneratedMSBuildEditorConfig.editorconfig
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.AssemblyInfoInputs.cache
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.AssemblyInfo.cs
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.csproj.CoreCompileInputs.cache
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.dll
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\refint\plataforma_ensino.dll
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.pdb
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.genruntimeconfig.cache
+E:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\ref\plataforma_ensino.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.exe
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.deps.json
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.runtimeconfig.json
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.pdb
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\EntityFramework.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\MySql.Data.EntityFramework.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.csproj.AssemblyReference.cache
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaBoletimUC.g.cs
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaCadastroUC.g.cs
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaDisciplinasControl.g.cs
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInfosUC.g.cs
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInicialUC.g.cs
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaMatricula.g.cs
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaMatriculaUC.g.cs
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\telaProfessorUC.g.cs
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\App.g.cs
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino_Content.g.cs
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino_MarkupCompile.cache
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino_MarkupCompile.lref
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\MainWindow.baml
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaBoletimUC.baml
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaCadastroUC.baml
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaDisciplinasControl.baml
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInfosUC.baml
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInicialUC.baml
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaMatricula.baml
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaMatriculaUC.baml
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\telaProfessorUC.baml
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.g.resources
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.GeneratedMSBuildEditorConfig.editorconfig
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.AssemblyInfoInputs.cache
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.AssemblyInfo.cs
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.csproj.CoreCompileInputs.cache
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\platafor.147C0D8D.Up2Date
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\refint\plataforma_ensino.dll
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.pdb
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.genruntimeconfig.cache
+D:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\ref\plataforma_ensino.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.csproj.AssemblyReference.cache
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaBoletimUC.g.cs
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaCadastroUC.g.cs
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaDisciplinasControl.g.cs
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInfosUC.g.cs
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInicialUC.g.cs
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaMatriculaUC.g.cs
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\telaProfessorUC.g.cs
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino_Content.g.cs
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino_MarkupCompile.cache
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino_MarkupCompile.lref
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.exe
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.deps.json
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.runtimeconfig.json
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.pdb
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\MySql.Data.EntityFramework.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaBoletimUC.baml
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaCadastroUC.baml
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaDisciplinasControl.baml
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInfosUC.baml
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInicialUC.baml
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaMatriculaUC.baml
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\telaProfessorUC.baml
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.g.resources
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.AssemblyInfoInputs.cache
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.AssemblyInfo.cs
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.csproj.CoreCompileInputs.cache
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\platafor.147C0D8D.Up2Date
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\refint\plataforma_ensino.dll
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.pdb
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.genruntimeconfig.cache
+C:\Users\renan\Documents\AV1\plataforma_ensino\obj\Debug\net8.0-windows\ref\plataforma_ensino.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.exe
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.deps.json
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.runtimeconfig.json
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.pdb
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\EntityFramework.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\MySql.Data.EntityFramework.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.csproj.AssemblyReference.cache
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaBoletimUC.g.cs
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaCadastroUC.g.cs
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaDisciplinasControl.g.cs
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInfosUC.g.cs
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInicialUC.g.cs
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaMatriculaUC.g.cs
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\telaProfessorUC.g.cs
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\App.g.cs
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino_Content.g.cs
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino_MarkupCompile.cache
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino_MarkupCompile.lref
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\MainWindow.baml
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaBoletimUC.baml
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaCadastroUC.baml
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaDisciplinasControl.baml
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInfosUC.baml
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInicialUC.baml
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaMatriculaUC.baml
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\telaProfessorUC.baml
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.g.resources
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.GeneratedMSBuildEditorConfig.editorconfig
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.AssemblyInfoInputs.cache
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.AssemblyInfo.cs
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.csproj.CoreCompileInputs.cache
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\platafor.147C0D8D.Up2Date
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\refint\plataforma_ensino.dll
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.pdb
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.genruntimeconfig.cache
+E:\faculdade\4periodo\pi4\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\ref\plataforma_ensino.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.exe
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.deps.json
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.runtimeconfig.json
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\plataforma_ensino.pdb
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\MySql.Data.EntityFramework.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaBoletimUC.g.cs
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaCadastroUC.g.cs
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaDisciplinasControl.g.cs
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInfosUC.g.cs
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInicialUC.g.cs
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaMatriculaUC.g.cs
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\telaProfessorUC.g.cs
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino_Content.g.cs
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino_MarkupCompile.cache
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino_MarkupCompile.lref
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaBoletimUC.baml
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaCadastroUC.baml
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaDisciplinasControl.baml
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInfosUC.baml
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaInicialUC.baml
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\PaginaMatriculaUC.baml
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\telaProfessorUC.baml
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.g.resources
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.AssemblyInfo.cs
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\platafor.147C0D8D.Up2Date
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\refint\plataforma_ensino.dll
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.pdb
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\plataforma_ensino.genruntimeconfig.cache
+C:\Users\renan\Desktop\av1\AV1\plataforma_ensino\obj\Debug\net8.0-windows\ref\plataforma_ensino.dll

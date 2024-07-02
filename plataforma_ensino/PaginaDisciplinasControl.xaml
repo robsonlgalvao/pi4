@@ -1,0 +1,38 @@
+﻿<UserControl x:Class="plataforma_ensino.PaginaDisciplinasControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:plataforma_ensino"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" IsVisibleChanged="UserControl_IsVisibleChanged">
+    <UserControl.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="Black"/>
+            <GradientStop Color="#FF28BDEB" Offset="1"/>
+        </LinearGradientBrush>
+    </UserControl.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row="0" Content="MATRICULADO NAS MATERIAS:" Foreground="White" HorizontalContentAlignment="Center" FontSize="24" FontFamily="AniMe Matrix - MB_EN" IsEnabled="False"/>
+        <ListBox x:Name="lstDisciplinas" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Width="auto" Height="auto" FontSize="36" FontFamily="Arial Black" Foreground="White">
+           
+            <ListBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF28BDEB" Offset="1"/>
+                </LinearGradientBrush>
+            </ListBox.Background>
+
+        </ListBox>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Content="Retornar" Margin="5" Width="150" Click="Retornar_Click" Height="30"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

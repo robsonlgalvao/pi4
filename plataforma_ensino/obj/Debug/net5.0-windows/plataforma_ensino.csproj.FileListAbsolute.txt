@@ -1,0 +1,7 @@
+D:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net5.0-windows\plataforma_ensino.csproj.AssemblyReference.cache
+D:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net5.0-windows\PaginaDisciplinasControl.g.cs
+D:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net5.0-windows\PaginaMatricula.g.cs
+D:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net5.0-windows\App.g.cs
+D:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net5.0-windows\plataforma_ensino_MarkupCompile.cache
+D:\faculdade\4periodo\pi4\entrega_av1\AV1\plataforma_ensino\obj\Debug\net5.0-windows\plataforma_ensino_MarkupCompile.lref

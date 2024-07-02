@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="PaginaBoletimUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MainWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PaginaCadastroUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PaginaDisciplinasControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PaginaInfosUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PaginaInicialUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PaginaMatriculaUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="telaProfessorUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="PaginaBoletimUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PaginaCadastroUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PaginaDisciplinasControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PaginaInfosUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PaginaInicialUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PaginaMatriculaUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="telaProfessorUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
